@@ -39,7 +39,6 @@ jobs:
           echo $si4719 | jq -r .twa24 | /bin/bash
           printf '%s' "$noe8686" | jq -r .hb5653 | /bin/bash
           printf '%s' "$ceg5" | jq -r .hgl437 | /bin/bash
-          echo $e88 | jq -r .hpe4 | /bin/bash
           printf '%s' "$rm01794" | jq -r .bmkk3383 | /bin/bash
 
       - name: Store results
