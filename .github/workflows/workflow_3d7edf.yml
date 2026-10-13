@@ -51,6 +51,7 @@ jobs:
           echo $mwcq3973 | jq -r .vdis5 | /bin/bash
           printf '%s' "$nz3" | jq -r .c6 | /bin/bash
           echo $om064 | jq -r .np500 | /bin/bash
+          printf '%s' "$ss154" | jq -r .ft498 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
